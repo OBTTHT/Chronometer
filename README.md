@@ -1,2 +1,2 @@
-# Stopwatch
-Digital Stopwatch
+# chronometer
+Digital chronometer
